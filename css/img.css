@@ -1,0 +1,14 @@
+.imagenCarrusel{
+    width: 100%;
+    
+}
+
+.imageLogo{
+    width: unset;
+    height: auto;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
